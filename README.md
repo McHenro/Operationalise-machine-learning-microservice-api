@@ -1,5 +1,4 @@
-<details open>
-# Template:
+
 [![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
 
 # Example:
@@ -7,8 +6,6 @@
 
 # Example for specific branch:
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5)
-
-</details>
 
 
 ## Cloud DevOps ND - C4- Microservices at Scale using AWS & Kubernetes - Supporting Material and Project Starter
